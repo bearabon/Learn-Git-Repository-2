@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
 alert("Hello world");
+var test = "This is a test";
